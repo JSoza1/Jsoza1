@@ -33,7 +33,7 @@
 <!-- Fin apartado GitHub stats -->
 
 <!-- Contacto -->
-<h2> Contacto <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+## <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"><b>Contacto </b>
 
 <p align="center">
 
