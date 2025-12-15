@@ -3,34 +3,32 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <br>
-🎯 **Desarrollador Web | Con experiencia en SEO**  
-
-💻 Actualmente estudio la **Tecnicatura en Programación** en la **UTN**, y sigo capacitándome constantemente.  
-
-📚 Últimamente me he estado enfocando en:  
-- 🐍 **Python** y 🐚 **Bash** en la universidad  
-- ⚛️ **React** de forma autodidacta  
-
-🚀 Me encanta aprender nuevas tecnologías, crear proyectos y aplicar lo que aprendo en el mundo real.
+🎯 Estudiante de Tecnicatura en Programación en la UTN
+<br>
+<br>
+💻 Estoy enfocado en aprender y aplicar nuevas tecnologías en proyectos reales. Actualmente estudio Python en la universidad y, de forma autodidacta, me capacito en React y automatización de procesos con n8n. La mayor parte de mi experiencia está en desarrollo frontend, pero mi formación universitaria me orienta hacia un perfil Full-Stack.
+<br>
+<br>
+🧠 Soft Skills:
+<br>
+<ul>
+<li>Capacidad de aprendizaje rápido y adaptación a nuevas tecnologías</li>
+<li>Comunicación efectiva y trabajo en equipo</li>
+<li>Resolución de problemas y enfoque práctico en proyectos</li>
+</ul>
+💡 Mi objetivo: seguir creciendo profesionalmente en IT, aportar valor en proyectos reales y explorar nuevas tecnologías que me permitan desarrollarme continuamente.
 
 <!-- Tecnologias -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Tecnologias
 <br>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,express,firebase,github,html,js,linux,md,nodejs,py,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,bash,powershell,html,css,js,nodejs,express,ts,py,md,wordpress,vscode,discord,windows&perline=14" />
   </a>
 </p>
 <!-- Fin apartado Tecnologias -->
-
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-<p align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jsoza1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</p>
-<!-- Fin apartado GitHub stats -->
 
 <!-- Contacto -->
 ## <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"><b>Contacto </b>
