@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,bash,powershell,html,css,js,nodejs,express,ts,py,md,wordpress,vscode,discord,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,nodejs,express,ts,vite,py,selenium,md,postman,vercel,netlify,wordpress,vscode,discord,windows&perline=14" />
   </a>
 </p>
 <!-- Fin apartado Tecnologias -->
