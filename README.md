@@ -1,5 +1,5 @@
 <h3 align="center">
-Hola Soy Jonathan
+Hola, Soy Jonathan
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <br>
