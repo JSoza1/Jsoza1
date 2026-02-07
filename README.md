@@ -1,12 +1,13 @@
 <h3 align="center">
-  Hola Soy Jonathan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hola Soy Jonathan
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <br>
-🎯 Estudiante de Tecnicatura en Programación en la UTN
+🎯 Desarrollador Full Stack con 3 años de experiencia
 <br>
 <br>
-💻 Estoy enfocado en aprender y aplicar nuevas tecnologías en proyectos reales. Actualmente estudio Python en la universidad y, de forma autodidacta, me capacito en React y automatización de procesos con n8n. La mayor parte de mi experiencia está en desarrollo frontend, pero mi formación universitaria me orienta hacia un perfil Full-Stack.
+💻 Me especializo en la creación de soluciones digitales, de las cuales por mencionar algunas, soy capaz de hacer desarrollos de MVPs rapidos mediante Google Antigravity, la construcción de APIs, el dominio de React y la integración de automatizaciones de procesos con n8n. Ademas, me mantengo en práctica constante de inglés y cuento con habilidades blandas adquiridas 
+en mi etapa previa como docente.
 <br>
 <br>
 🧠 Soft Skills:
@@ -25,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,nodejs,express,ts,vite,py,selenium,md,postman,vercel,netlify,wordpress,vscode,discord,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,react,nodejs,express,ts,vite,py,selenium,md,bootstrap,postman,vercel,netlify,wordpress,vscode,discord,windows&perline=14" />
   </a>
 </p>
 <!-- Fin apartado Tecnologias -->
