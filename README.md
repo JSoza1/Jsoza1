@@ -26,7 +26,7 @@ en mi etapa previa como docente.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,react,nodejs,express,ts,vite,py,selenium,md,bootstrap,postman,vercel,netlify,wordpress,vscode,discord,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,react,nodejs,express,ts,vite,py,selenium,md,bootstrap,postman,vercel,netlify,wordpress,vscode,postgres,supabase&perline=14" />
   </a>
 </p>
 <!-- Fin apartado Tecnologias -->
