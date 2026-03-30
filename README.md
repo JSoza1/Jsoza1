@@ -6,8 +6,7 @@ Hola, Soy Jonathan
 🎯 Desarrollador Full Stack con 3 años de experiencia
 <br>
 <br>
-💻 Me especializo en la creación de soluciones digitales, de las cuales por mencionar algunas, soy capaz de hacer desarrollos de MVPs rapidos mediante Google Antigravity, la construcción de APIs, el dominio de React y la integración de automatizaciones de procesos con n8n. Ademas, me mantengo en práctica constante de inglés y cuento con habilidades blandas adquiridas 
-en mi etapa previa como docente.
+💻 Me especializo en el desarrollo acelerado de aplicaciones mediante agentes de IA y configuración de skills, aplicando arquitectura y buenas prácticas de mi formación en la UTN. Domino diversos lenguajes y frameworks como React y Express, combinando el rigor académico con un aprendizaje autodidacta para entregar soluciones técnicas sólidas. Además, mi pasado docente me ha brindado habilidades blandas clave en comunicación y un perfil sociable, facilitando el trabajo colaborativo y la claridad en cada proyecto.
 <br>
 <br>
 🧠 Soft Skills:
@@ -26,7 +25,7 @@ en mi etapa previa como docente.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,react,nodejs,express,ts,vite,py,selenium,java,r,md,bootstrap,postman,vercel,netlify,wordpress,vscode,postgres,mysql,supabase,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,firebase,docker,linux,ubuntu,bash,powershell,html,css,js,react,nodejs,express,ts,vite,py,selenium,java,r,md,bootstrap,postman,vercel,netlify,wordpress,vscode,postgres,mysql,supabase,notion,discord&perline=14" />
   </a>
 </p>
 <!-- Fin apartado Tecnologias -->
